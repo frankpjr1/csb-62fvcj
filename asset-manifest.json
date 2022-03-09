@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://frankpjr1.github.io/csb-62fvcj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://frankpjr1.github.io/csb-62fvcj/static/js/main.210b5412.chunk.js",
+    "main.js.map": "https://frankpjr1.github.io/csb-62fvcj/static/js/main.210b5412.chunk.js.map",
+    "runtime-main.js": "https://frankpjr1.github.io/csb-62fvcj/static/js/runtime-main.042a5708.js",
+    "runtime-main.js.map": "https://frankpjr1.github.io/csb-62fvcj/static/js/runtime-main.042a5708.js.map",
+    "static/js/2.57069bda.chunk.js": "https://frankpjr1.github.io/csb-62fvcj/static/js/2.57069bda.chunk.js",
+    "static/js/2.57069bda.chunk.js.map": "https://frankpjr1.github.io/csb-62fvcj/static/js/2.57069bda.chunk.js.map",
+    "index.html": "https://frankpjr1.github.io/csb-62fvcj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://frankpjr1.github.io/csb-62fvcj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.57069bda.chunk.js.LICENSE.txt": "https://frankpjr1.github.io/csb-62fvcj/static/js/2.57069bda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042a5708.js",
+    "static/js/2.57069bda.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.210b5412.chunk.js"
+  ]
+}
